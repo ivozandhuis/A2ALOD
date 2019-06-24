@@ -1,0 +1,90 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 11 Jun 2019 08:20:37 GMT
+Content-Type: text/turtle;charset=UTF-8
+Transfer-Encoding: chunked
+Strict-Transport-Security: max-age=15768000;
+
+@prefix rkdartist: <https://rkd.nl/artists/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema: <http://schema.org/> .
+@prefix rkdo: <http://data.rkd.nl/def#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+rkdartist:66219
+  a rdf:Description, schema:Person ;
+  schema:gender schema:Male ;
+  schema:identifier 66219 ;
+  schema:name "Rembrandt"@nl ;
+  schema:description "See also: Uylenburgh, Hendrick; Lievens, Jan" ;
+  schema:alternateName "Rembrandt Harmensz. van Rijn", "Rembrandt van Rijn", "Rhijn, Rembrandt Harmensz. van", "Rijn, Rembrandt van", "Rembrant" ;
+  schema:subjectOf _:genid1, _:genid2, _:genid4, _:genid5, _:genid6, _:genid7 ;
+  schema:event _:genid1, _:genid2, _:genid4, _:genid5, _:genid6, _:genid7 ;
+  schema:nationality "North Netherlandish"@en, "Noord-Nederlands"@nl ;
+  schema:additionalType "etcher"@en, "engraver (printmaker)"@en, "painter"@en, "draftsman"@en, "art collector"@en, "naturalia collector"@en, "collector of ethnographica"@en, "etser"@nl, "graveur (prentmaker)"@nl, "schilder"@nl, "tekenaar"@nl, "kunstverzamelaar"@nl, "naturaliënverzamelaar"@nl, "verzamelaar van etnografica"@nl .
+
+_:genid1
+  a rdf:Description, schema:Event, rkdo:Birth ;
+  schema:actor rkdartist:66219 ;
+  schema:birthPlace "Leiden"@en, "Leiden"@nl ;
+  schema:latitude "52.15833" ;
+  schema:longitude "4.49306" ;
+  schema:startDate "1606-07-15"^^xsd:date ;
+  schema:endDate "1607"^^xsd:gYear ;
+  schema:description "No date of birth or baptismal certificate is known. The first to mention a date of birth is Orlers in 1641 in the second edition of his 'Beschrijvinge der Stadt Leyden'. Orlers mentions July 15th, 1606 as Rembrandt's date of birth. Because in general Orlers is a reliable source, this information is thrustworthy. However, there are two 17th century documents on the basis of which another date of birth can be suspected. In the notice of marriage from Rembrandt and Saskia van Uylenburgh from June 10th, 1634 the age of Rembrandt is stated as 26 years. This would mean that Rembrandt wasn't born in 1606 but in 1607 or even in 1608 (Strauss/Van der Meulen 1979, doc. 1634/2). The second document is a statement of authenticity of a painting by Paul Bril on September 16th, 1653. The age of Rembrandt is stated here as 'out omtrent sessenveertich jaeren' (Strauss/Van der Meulen 1979, doc. 1653/16). This record also suggests 1607 as being the date of birth of the artist." .
+
+_:genid2
+  a rdf:Description, schema:Event, rkdo:Death ;
+  schema:actor rkdartist:66219 ;
+  schema:deathPlace "Amsterdam"@en, "Amsterdam"@nl ;
+  schema:latitude "52.37403" ;
+  schema:longitude "4.88969" ;
+  schema:startDate "1669-10-04"^^xsd:date ;
+  schema:endDate "1669-10-04"^^xsd:date ;
+  schema:description "buried on October 8, 1669" .
+
+[]
+  a rdf:Description, schema:Event, rkdo:Period_of_Activity ;
+  schema:startDate "1625"^^xsd:gYear, "1669"^^xsd:gYear ;
+  schema:description "dated works range from 1625 to 1669" .
+
+_:genid4
+  a rdf:Description, schema:Event, rkdo:Place_of_Activity ;
+  schema:actor rkdartist:66219 ;
+  schema:location "Leiden"@en, "Leiden"@nl ;
+  schema:latitude "52.15833" ;
+  schema:longitude "4.49306" ;
+  schema:startDate "1620"^^xsd:gYear ;
+  schema:endDate "1624"^^xsd:gYear ;
+  schema:description "Rembrandt was registered as a student at the Leiden university on May 20th, 1620. According to Orlers, he didn't have any 'lust of genegenheid' for studying, which forced his parents to have him unregistered. Thereafter, Rembrandt arranged an apprenticeship with the Leiden painter Jacob Isaacszoon van Swanenburgh, where he stayed for three years (Strauss/Van der Meulen 1979, doc. 1620/1621 and 1641/8)."@en .
+
+_:genid5
+  a rdf:Description, schema:Event, rkdo:Place_of_Activity ;
+  schema:actor rkdartist:66219 ;
+  schema:location "Amsterdam"@en, "Amsterdam"@nl ;
+  schema:latitude "52.37403" ;
+  schema:longitude "4.88969" ;
+  schema:startDate "1623"^^xsd:gYear ;
+  schema:endDate "1625"^^xsd:gYear ;
+  schema:description "According to Orlers, Rembrandt was the student of Pieter Lastman in Amsterdam for a period of six months (Strauss/Van der Meulen 1979, doc. 1641/8). There are several opinions on when this would have taken place (Broos 2000)."@en .
+
+_:genid6
+  a rdf:Description, schema:Event, rkdo:Place_of_Activity ;
+  schema:actor rkdartist:66219 ;
+  schema:location "Leiden"@en, "Leiden"@nl ;
+  schema:latitude "52.15833" ;
+  schema:longitude "4.49306" ;
+  schema:startDate "1625"^^xsd:gYear ;
+  schema:endDate "1633"^^xsd:gYear ;
+  schema:description "According to Orlers, Rembrandt became an independent master after his apprenticeship with Lastman, probably in Leiden (Strauss/Van der Meulen 1979, doc. 1641/8). This was presumably in 1625, the year of Rembrandt's earliest dated work. He probably left his studio in Leiden in 1633 (Dudok van Heel 2006)."@en .
+
+_:genid7
+  a rdf:Description, schema:Event, rkdo:Place_of_Activity ;
+  schema:actor rkdartist:66219 ;
+  schema:location "Amsterdam"@en, "Amsterdam"@nl ;
+  schema:latitude "52.37403" ;
+  schema:longitude "4.88969" ;
+  schema:startDate "1631"^^xsd:gYear ;
+  schema:endDate "1669"^^xsd:gYear ;
+  schema:description "stayed with Hendrick Uylenburgh at first"@en .
+

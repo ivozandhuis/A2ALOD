@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483330">
+    <roar:documentedIn xmlns:roar="http://hicsuntleones.nl/vocab/roar/0.1/" rdf:resource="urn:F6C0F0E4-0850-E53E-E043-4701000A1872"/>
+    <pnv:hasName xmlns:pnv="https://w3id.org/pnv#">
+      <rdf:Description>
+        <pnv:givenName>Joannes Franciscus</pnv:givenName>
+        <pnv:surnamePrefix>van der</pnv:surnamePrefix>
+        <pnv:baseSurname>Sloot</pnv:baseSurname>
+      </rdf:Description>
+    </pnv:hasName>
+    <schema:age xmlns:schema="http://schema.org/">27</schema:age>
+    <a2a:BirthDate xmlns:a2a="http://Mindbus.nl/A2A"/>
+    <schema:birthPlace xmlns:schema="http://schema.org/">Alphen aan den Rijn</schema:birthPlace>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483332">
+    <roar:documentedIn xmlns:roar="http://hicsuntleones.nl/vocab/roar/0.1/" rdf:resource="urn:F6C0F0E4-0850-E53E-E043-4701000A1872"/>
+    <pnv:hasName xmlns:pnv="https://w3id.org/pnv#">
+      <rdf:Description>
+        <pnv:givenName>Johannes Gerardus</pnv:givenName>
+        <pnv:surnamePrefix>van der</pnv:surnamePrefix>
+        <pnv:baseSurname>Sloot</pnv:baseSurname>
+      </rdf:Description>
+    </pnv:hasName>
+    <a2a:Age xmlns:a2a="http://Mindbus.nl/A2A"/>
+    <a2a:BirthDate xmlns:a2a="http://Mindbus.nl/A2A"/>
+    <a2a:BirthPlace xmlns:a2a="http://Mindbus.nl/A2A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483333">
+    <roar:documentedIn xmlns:roar="http://hicsuntleones.nl/vocab/roar/0.1/" rdf:resource="urn:F6C0F0E4-0850-E53E-E043-4701000A1872"/>
+    <pnv:hasName xmlns:pnv="https://w3id.org/pnv#">
+      <rdf:Description>
+        <pnv:givenName>Johanna Maria</pnv:givenName>
+        <pnv:baseSurname>Binken</pnv:baseSurname>
+      </rdf:Description>
+    </pnv:hasName>
+    <a2a:Age xmlns:a2a="http://Mindbus.nl/A2A"/>
+    <a2a:BirthDate xmlns:a2a="http://Mindbus.nl/A2A"/>
+    <a2a:BirthPlace xmlns:a2a="http://Mindbus.nl/A2A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483331">
+    <roar:documentedIn xmlns:roar="http://hicsuntleones.nl/vocab/roar/0.1/" rdf:resource="urn:F6C0F0E4-0850-E53E-E043-4701000A1872"/>
+    <pnv:hasName xmlns:pnv="https://w3id.org/pnv#">
+      <rdf:Description>
+        <pnv:givenName>Maria Elisabeth</pnv:givenName>
+        <pnv:baseSurname>Verheijde</pnv:baseSurname>
+      </rdf:Description>
+    </pnv:hasName>
+    <schema:age xmlns:schema="http://schema.org/">33</schema:age>
+    <a2a:BirthDate xmlns:a2a="http://Mindbus.nl/A2A"/>
+    <schema:birthPlace xmlns:schema="http://schema.org/">Roermond</schema:birthPlace>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483334">
+    <roar:documentedIn xmlns:roar="http://hicsuntleones.nl/vocab/roar/0.1/" rdf:resource="urn:F6C0F0E4-0850-E53E-E043-4701000A1872"/>
+    <pnv:hasName xmlns:pnv="https://w3id.org/pnv#">
+      <rdf:Description>
+        <pnv:givenName>Joannes Antonius Arnoldus</pnv:givenName>
+        <pnv:baseSurname>Verheijde</pnv:baseSurname>
+      </rdf:Description>
+    </pnv:hasName>
+    <a2a:Age xmlns:a2a="http://Mindbus.nl/A2A"/>
+    <a2a:BirthDate xmlns:a2a="http://Mindbus.nl/A2A"/>
+    <a2a:BirthPlace xmlns:a2a="http://Mindbus.nl/A2A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483335">
+    <roar:documentedIn xmlns:roar="http://hicsuntleones.nl/vocab/roar/0.1/" rdf:resource="urn:F6C0F0E4-0850-E53E-E043-4701000A1872"/>
+    <pnv:hasName xmlns:pnv="https://w3id.org/pnv#">
+      <rdf:Description>
+        <pnv:givenName>Anna Maria</pnv:givenName>
+        <pnv:baseSurname>Lambricks</pnv:baseSurname>
+      </rdf:Description>
+    </pnv:hasName>
+    <a2a:Age xmlns:a2a="http://Mindbus.nl/A2A"/>
+    <a2a:BirthDate xmlns:a2a="http://Mindbus.nl/A2A"/>
+    <a2a:BirthPlace xmlns:a2a="http://Mindbus.nl/A2A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Event1">
+    <roar:documentedIn xmlns:roar="http://hicsuntleones.nl/vocab/roar/0.1/" rdf:resource="urn:F6C0F0E4-0850-E53E-E043-4701000A1872"/>
+    <rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Marriage"/>
+    <schema:date xmlns:schema="http://schema.org/" rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-09-01</schema:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872">
+    <a2a:institutionName xmlns:a2a="http://Mindbus.nl/A2A" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Het Utrechts Archief </a2a:institutionName>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483330">
+    <roar:role xmlns:roar="http://hicsuntleones.nl/vocab/roar/0.1/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bruidegom</roar:role>
+    <schema:gender xmlns:schema="http://schema.org/" rdf:resource="http://schema.org/Male"/>
+    <schema:spouse xmlns:schema="http://schema.org/" rdf:resource="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483331"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483332">
+    <roar:role xmlns:roar="http://hicsuntleones.nl/vocab/roar/0.1/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vader van de bruidegom</roar:role>
+    <schema:gender xmlns:schema="http://schema.org/" rdf:resource="http://schema.org/Male"/>
+    <schema:parent xmlns:schema="http://schema.org/" rdf:resource="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483330"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483333">
+    <roar:role xmlns:roar="http://hicsuntleones.nl/vocab/roar/0.1/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moeder van de bruidegom</roar:role>
+    <schema:gender xmlns:schema="http://schema.org/" rdf:resource="http://schema.org/Female"/>
+    <schema:parent xmlns:schema="http://schema.org/" rdf:resource="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483330"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483331">
+    <roar:role xmlns:roar="http://hicsuntleones.nl/vocab/roar/0.1/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bruid</roar:role>
+    <schema:gender xmlns:schema="http://schema.org/" rdf:resource="http://schema.org/Female"/>
+    <schema:spouse xmlns:schema="http://schema.org/" rdf:resource="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483330"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483334">
+    <roar:role xmlns:roar="http://hicsuntleones.nl/vocab/roar/0.1/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vader van de bruid</roar:role>
+    <schema:gender xmlns:schema="http://schema.org/" rdf:resource="http://schema.org/Male"/>
+    <schema:parent xmlns:schema="http://schema.org/" rdf:resource="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483331"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483335">
+    <roar:role xmlns:roar="http://hicsuntleones.nl/vocab/roar/0.1/" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moeder van de bruid</roar:role>
+    <schema:gender xmlns:schema="http://schema.org/" rdf:resource="http://schema.org/Female"/>
+    <schema:parent xmlns:schema="http://schema.org/" rdf:resource="urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483331"/>
+  </rdf:Description>
+</rdf:RDF>

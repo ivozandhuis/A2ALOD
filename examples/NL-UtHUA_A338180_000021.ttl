@@ -1,0 +1,46 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix a2a: <https://a2a.nognadertebepalen.nl/bladiebla#> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <http://schema.org/> .
+@prefix pnv: <https://w3id.org/pnv#> .
+@prefix sdmx: <http://purl.org/linked-data/sdmx/2009/dimension#> .
+
+<urn:F6C0F0E4-0850-E53E-E043-4701000A1872>
+	a a2a:Huwelijksakte;
+    edm:isShownAt "http://www.hetutrechtsarchief.nl/collectie/archiefbank/archieftoegangen/zoekresultaat?mivast=39&amp;miadt=39&amp;miaet=54&amp;micode=463-737-01&amp;minr=29574995&amp;miview=ldt"^^xsd:anyURI ;
+    edm:isShownAt "https://www.openarch.nl/hua:F6C0F0E4-0850-E53E-E043-4701000A1872"^^xsd:anyURI ;
+    edm:isShownAt "https://www.wiewaswie.nl/nl/detail/47770315"^^xsd:anyURI ;
+	a2a:institution <https://archief.nl/NL-UtHUA>;
+	a2a:archive <https://archief.nl/NL-UtHUA/463>;
+    a2a:registryNumber <https://archief.nl/NL-UtHUA/463/737-01>;
+    a2a:documentNumber "997"^^xsd:string;
+	a2a:archiefvormer <http://www.gemeentegeschiedenis.nl/gemeentenaam/Utrecht>;
+    a2a:describesEvent <urn:hua:F6C0F0E4-0850-E53E-E043-4701000A1872#Event1> ;
+    a2a:describesPerson <urn:hua:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483330> ;
+    a2a:describesPerson <urn:hua:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483332> .
+
+<urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Event1>
+	a a2a:Huwelijk;
+	a2a:place <http://www.gemeentegeschiedenis.nl/gemeentenaam/Utrecht>;
+	schema:date "1937-09-01"^^xsd:date .
+    
+<urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483330>
+	a pnv:PersonName;
+	a2a:sex a2a:Man ;
+	pnv:surname "Sloot^^xsd:string";
+	pnv:surnamePrefix "van der^^xsd:string";
+	pnv:givenName "Joannes Franciscus^^xsd:string";
+	a2a:profession "winkelbediende"^^xsd:string;
+	sdmx:occupation <https://iisg.amsterdam/hisco/code/hisco/45130>;
+	schema:age "27"^^xsd:integer;
+	schema:parent <urn:hua:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483332> .
+
+<urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483332>
+	a pnv:PersonName;
+	a2a:sex a2a:Man ;
+	pnv:surname "Sloot"^^xsd:string;
+	pnv:surnamePrefix "van der"^^xsd:string;
+	pnv:givenName "Johannes Gerardus"^^xsd:string;
+	a2a:status a2a:Overleden .

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<A2ACollection xmlns="http://Mindbus.nl/RecordCollectionA2A" xmlns:A2A="http://Mindbus.nl/A2A"><a2a:A2A xmlns:a2a="http://Mindbus.nl/A2A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.7" xsi:schemaLocation="http://Mindbus.nl/A2A http://Mindbus.nl/A2A/A2AAllInOne_v.1.7.xsd">
+        <a2a:Person pid="Person835483330">
+          <a2a:PersonName>
+            <a2a:PersonNameFirstName>Joannes Franciscus</a2a:PersonNameFirstName>
+            <a2a:PersonNamePatronym/>
+            <a2a:PersonNamePrefixLastName>van der</a2a:PersonNamePrefixLastName>
+            <a2a:PersonNameLastName>Sloot</a2a:PersonNameLastName>
+          </a2a:PersonName>
+          <a2a:Residence>
+            <a2a:DescriptiveLocationIndicator/>
+          </a2a:Residence>
+          <a2a:Age>
+            <a2a:PersonAgeLiteral>27</a2a:PersonAgeLiteral>
+          </a2a:Age>
+          <a2a:BirthDate>
+            <a2a:LiteralDate/>
+            <a2a:Year/>
+            <a2a:Month/>
+            <a2a:Day/>
+          </a2a:BirthDate>
+          <a2a:BirthPlace>
+            <a2a:Province/>
+            <a2a:Place>Alphen aan den Rijn</a2a:Place>
+          </a2a:BirthPlace>
+          <a2a:Profession/>
+        </a2a:Person>
+        <a2a:Person pid="Person835483332">
+          <a2a:PersonName>
+            <a2a:PersonNameFirstName>Johannes Gerardus</a2a:PersonNameFirstName>
+            <a2a:PersonNamePatronym/>
+            <a2a:PersonNamePrefixLastName>van der</a2a:PersonNamePrefixLastName>
+            <a2a:PersonNameLastName>Sloot</a2a:PersonNameLastName>
+          </a2a:PersonName>
+          <a2a:Residence>
+            <a2a:DescriptiveLocationIndicator/>
+          </a2a:Residence>
+          <a2a:Age>
+            <a2a:PersonAgeLiteral/>
+          </a2a:Age>
+          <a2a:BirthDate>
+            <a2a:LiteralDate/>
+            <a2a:Year/>
+            <a2a:Month/>
+            <a2a:Day/>
+          </a2a:BirthDate>
+          <a2a:BirthPlace>
+            <a2a:Province/>
+            <a2a:Place/>
+          </a2a:BirthPlace>
+          <a2a:Profession/>
+        </a2a:Person>
+        <a2a:Person pid="Person835483333">
+          <a2a:PersonName>
+            <a2a:PersonNameFirstName>Johanna Maria</a2a:PersonNameFirstName>
+            <a2a:PersonNamePatronym/>
+            <a2a:PersonNamePrefixLastName/>
+            <a2a:PersonNameLastName>Binken</a2a:PersonNameLastName>
+          </a2a:PersonName>
+          <a2a:Residence>
+            <a2a:DescriptiveLocationIndicator/>
+          </a2a:Residence>
+          <a2a:Age>
+            <a2a:PersonAgeLiteral/>
+          </a2a:Age>
+          <a2a:BirthDate>
+            <a2a:LiteralDate/>
+            <a2a:Year/>
+            <a2a:Month/>
+            <a2a:Day/>
+          </a2a:BirthDate>
+          <a2a:BirthPlace>
+            <a2a:Province/>
+            <a2a:Place/>
+          </a2a:BirthPlace>
+          <a2a:Profession/>
+        </a2a:Person>
+        <a2a:Person pid="Person835483331">
+          <a2a:PersonName>
+            <a2a:PersonNameFirstName>Maria Elisabeth</a2a:PersonNameFirstName>
+            <a2a:PersonNamePatronym/>
+            <a2a:PersonNamePrefixLastName/>
+            <a2a:PersonNameLastName>Verheijde</a2a:PersonNameLastName>
+          </a2a:PersonName>
+          <a2a:Residence>
+            <a2a:DescriptiveLocationIndicator/>
+          </a2a:Residence>
+          <a2a:Age>
+            <a2a:PersonAgeLiteral>33</a2a:PersonAgeLiteral>
+          </a2a:Age>
+          <a2a:BirthDate>
+            <a2a:LiteralDate/>
+            <a2a:Year/>
+            <a2a:Month/>
+            <a2a:Day/>
+          </a2a:BirthDate>
+          <a2a:BirthPlace>
+            <a2a:Province/>
+            <a2a:Place>Roermond</a2a:Place>
+          </a2a:BirthPlace>
+          <a2a:Profession/>
+        </a2a:Person>
+        <a2a:Person pid="Person835483334">
+          <a2a:PersonName>
+            <a2a:PersonNameFirstName>Joannes Antonius Arnoldus</a2a:PersonNameFirstName>
+            <a2a:PersonNamePatronym/>
+            <a2a:PersonNamePrefixLastName/>
+            <a2a:PersonNameLastName>Verheijde</a2a:PersonNameLastName>
+          </a2a:PersonName>
+          <a2a:Residence>
+            <a2a:DescriptiveLocationIndicator/>
+          </a2a:Residence>
+          <a2a:Age>
+            <a2a:PersonAgeLiteral/>
+          </a2a:Age>
+          <a2a:BirthDate>
+            <a2a:LiteralDate/>
+            <a2a:Year/>
+            <a2a:Month/>
+            <a2a:Day/>
+          </a2a:BirthDate>
+          <a2a:BirthPlace>
+            <a2a:Province/>
+            <a2a:Place/>
+          </a2a:BirthPlace>
+          <a2a:Profession/>
+        </a2a:Person>
+        <a2a:Person pid="Person835483335">
+          <a2a:PersonName>
+            <a2a:PersonNameFirstName>Anna Maria</a2a:PersonNameFirstName>
+            <a2a:PersonNamePatronym/>
+            <a2a:PersonNamePrefixLastName/>
+            <a2a:PersonNameLastName>Lambricks</a2a:PersonNameLastName>
+          </a2a:PersonName>
+          <a2a:Residence>
+            <a2a:DescriptiveLocationIndicator/>
+          </a2a:Residence>
+          <a2a:Age>
+            <a2a:PersonAgeLiteral/>
+          </a2a:Age>
+          <a2a:BirthDate>
+            <a2a:LiteralDate/>
+            <a2a:Year/>
+            <a2a:Month/>
+            <a2a:Day/>
+          </a2a:BirthDate>
+          <a2a:BirthPlace>
+            <a2a:Province/>
+            <a2a:Place/>
+          </a2a:BirthPlace>
+          <a2a:Profession/>
+        </a2a:Person>
+        <a2a:Event eid="Event1">
+          <a2a:EventType>Huwelijk</a2a:EventType>
+          <a2a:EventDate>
+            <a2a:LiteralDate>01-09-1937</a2a:LiteralDate>
+            <a2a:Year>1937</a2a:Year>
+            <a2a:Month>09</a2a:Month>
+            <a2a:Day>01</a2a:Day>
+          </a2a:EventDate>
+          <a2a:EventPlace>
+            <a2a:Province>Utrecht</a2a:Province>
+            <a2a:Place>Utrecht</a2a:Place>
+          </a2a:EventPlace>
+          <a2a:EventReligion>
+            <a2a:ReligionLiteral/>
+          </a2a:EventReligion>
+        </a2a:Event>
+        <a2a:RelationEP>
+          <a2a:PersonKeyRef>Person835483330</a2a:PersonKeyRef>
+          <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+          <a2a:RelationType>Bruidegom</a2a:RelationType>
+        </a2a:RelationEP>
+        <a2a:RelationEP>
+          <a2a:PersonKeyRef>Person835483332</a2a:PersonKeyRef>
+          <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+          <a2a:RelationType>Vader van de bruidegom</a2a:RelationType>
+        </a2a:RelationEP>
+        <a2a:RelationEP>
+          <a2a:PersonKeyRef>Person835483333</a2a:PersonKeyRef>
+          <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+          <a2a:RelationType>Moeder van de bruidegom</a2a:RelationType>
+        </a2a:RelationEP>
+        <a2a:RelationEP>
+          <a2a:PersonKeyRef>Person835483331</a2a:PersonKeyRef>
+          <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+          <a2a:RelationType>Bruid</a2a:RelationType>
+        </a2a:RelationEP>
+        <a2a:RelationEP>
+          <a2a:PersonKeyRef>Person835483334</a2a:PersonKeyRef>
+          <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+          <a2a:RelationType>Vader van de bruid</a2a:RelationType>
+        </a2a:RelationEP>
+        <a2a:RelationEP>
+          <a2a:PersonKeyRef>Person835483335</a2a:PersonKeyRef>
+          <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+          <a2a:RelationType>Moeder van de bruid</a2a:RelationType>
+        </a2a:RelationEP>
+        <a2a:Source>
+          <a2a:SourcePlace>
+            <a2a:Country>Nederland</a2a:Country>
+            <a2a:Province>Utrecht</a2a:Province>
+            <a2a:Place>Utrecht</a2a:Place>
+          </a2a:SourcePlace>
+          <a2a:SourceIndexDate>
+            <a2a:From>1937-09-01</a2a:From>
+            <a2a:To>1937-09-01</a2a:To>
+          </a2a:SourceIndexDate>
+          <a2a:SourceDate>
+            <a2a:LiteralDate>01-09-1937</a2a:LiteralDate>
+            <a2a:Year>1937</a2a:Year>
+            <a2a:Month>09</a2a:Month>
+            <a2a:Day>01</a2a:Day>
+          </a2a:SourceDate>
+          <a2a:SourceType>BS Huwelijk</a2a:SourceType>
+          <a2a:SourceReference>
+            <a2a:Place>Utrecht</a2a:Place>
+            <a2a:InstitutionName>Het Utrechts Archief </a2a:InstitutionName>
+            <a2a:Archive>463</a2a:Archive>
+            <a2a:Collection>Utrecht 1937</a2a:Collection>
+            <a2a:Folio/>
+            <a2a:RegistryNumber>737-01</a2a:RegistryNumber>
+            <a2a:DocumentNumber>997</a2a:DocumentNumber>
+          </a2a:SourceReference>
+          <a2a:SourceAvailableScans>
+            <a2a:Scan>
+              <a2a:OrderSequenceNumber>1</a2a:OrderSequenceNumber>
+              <a2a:Uri>http://files.archieven.nl/39/f/463/_Projecten2017\Batch_HUA_BS_Herstel_2017-01_T463\A338180\NL-UtHUA_A338180_000001.jpg</a2a:Uri>
+              <a2a:UriViewer>http://www.hetutrechtsarchief.nl/collectie/archiefbank/archieftoegangen/zoekresultaat?mivast=39&amp;miadt=39&amp;miaet=54&amp;micode=463-737-01&amp;minr=29574995&amp;miview=ldt</a2a:UriViewer>
+              <a2a:UriPreview>http://img.hetutrechtsarchief.nl/?image=_Projecten2017\Batch_HUA_BS_Herstel_2017-01_T463\A338180\NL-UtHUA_A338180_000001.jpg&amp;format=thumb</a2a:UriPreview>
+            </a2a:Scan>
+          </a2a:SourceAvailableScans>
+          <a2a:SourceLastChangeDate>2018-02-04</a2a:SourceLastChangeDate>
+          <a2a:RecordIdentifier>835483329</a2a:RecordIdentifier>
+          <a2a:RecordGUID>{F6C0F0E4-0850-E53E-E043-4701000A1872}</a2a:RecordGUID>
+        </a2a:Source>
+</a2a:A2A>
+</A2ACollection>

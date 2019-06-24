@@ -1,0 +1,94 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix roar: <http://hicsuntleones.nl/vocab/roar/0.1/> .
+@prefix pnv: <https://w3id.org/pnv#> .
+@prefix schema: <http://schema.org/> .
+@prefix a2a: <http://Mindbus.nl/A2A> .
+
+<urn:F6C0F0E4-0850-E53E-E043-4701000A1872>
+    a2a:institutionName "Het Utrechts Archief "^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Event1>
+    roar:documentedIn <urn:F6C0F0E4-0850-E53E-E043-4701000A1872> ;
+    schema:date "1937-09-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+    a <http://purl.org/vocab/bio/0.1/Marriage> .
+
+<urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483330>
+    a2a:BirthDate "" ;
+    roar:documentedIn <urn:F6C0F0E4-0850-E53E-E043-4701000A1872> ;
+    roar:role "Bruidegom"^^<http://www.w3.org/2001/XMLSchema#string> ;
+    schema:age "27" ;
+    schema:birthPlace "Alphen aan den Rijn" ;
+    schema:gender schema:Male ;
+    schema:spouse <urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483331> ;
+    pnv:hasName [
+        pnv:baseSurname "Sloot" ;
+        pnv:givenName "Joannes Franciscus" ;
+        pnv:surnamePrefix "van der"
+    ] .
+
+<urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483331>
+    a2a:BirthDate "" ;
+    roar:documentedIn <urn:F6C0F0E4-0850-E53E-E043-4701000A1872> ;
+    roar:role "Bruid"^^<http://www.w3.org/2001/XMLSchema#string> ;
+    schema:age "33" ;
+    schema:birthPlace "Roermond" ;
+    schema:gender schema:Female ;
+    schema:spouse <urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483330> ;
+    pnv:hasName [
+        pnv:baseSurname "Verheijde" ;
+        pnv:givenName "Maria Elisabeth"
+    ] .
+
+<urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483332>
+    a2a:Age "" ;
+    a2a:BirthDate "" ;
+    a2a:BirthPlace "" ;
+    roar:documentedIn <urn:F6C0F0E4-0850-E53E-E043-4701000A1872> ;
+    roar:role "Vader van de bruidegom"^^<http://www.w3.org/2001/XMLSchema#string> ;
+    schema:gender schema:Male ;
+    schema:parent <urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483330> ;
+    pnv:hasName [
+        pnv:baseSurname "Sloot" ;
+        pnv:givenName "Johannes Gerardus" ;
+        pnv:surnamePrefix "van der"
+    ] .
+
+<urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483333>
+    a2a:Age "" ;
+    a2a:BirthDate "" ;
+    a2a:BirthPlace "" ;
+    roar:documentedIn <urn:F6C0F0E4-0850-E53E-E043-4701000A1872> ;
+    roar:role "Moeder van de bruidegom"^^<http://www.w3.org/2001/XMLSchema#string> ;
+    schema:gender schema:Female ;
+    schema:parent <urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483330> ;
+    pnv:hasName [
+        pnv:baseSurname "Binken" ;
+        pnv:givenName "Johanna Maria"
+    ] .
+
+<urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483334>
+    a2a:Age "" ;
+    a2a:BirthDate "" ;
+    a2a:BirthPlace "" ;
+    roar:documentedIn <urn:F6C0F0E4-0850-E53E-E043-4701000A1872> ;
+    roar:role "Vader van de bruid"^^<http://www.w3.org/2001/XMLSchema#string> ;
+    schema:gender schema:Male ;
+    schema:parent <urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483331> ;
+    pnv:hasName [
+        pnv:baseSurname "Verheijde" ;
+        pnv:givenName "Joannes Antonius Arnoldus"
+    ] .
+
+<urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483335>
+    a2a:Age "" ;
+    a2a:BirthDate "" ;
+    a2a:BirthPlace "" ;
+    roar:documentedIn <urn:F6C0F0E4-0850-E53E-E043-4701000A1872> ;
+    roar:role "Moeder van de bruid"^^<http://www.w3.org/2001/XMLSchema#string> ;
+    schema:gender schema:Female ;
+    schema:parent <urn:F6C0F0E4-0850-E53E-E043-4701000A1872#Person835483331> ;
+    pnv:hasName [
+        pnv:baseSurname "Lambricks" ;
+        pnv:givenName "Anna Maria"
+    ] .
+
